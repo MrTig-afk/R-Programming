@@ -1,1 +1,1 @@
-# R-Programming
+A repository dedicated to storing and organizing all my R projects for learning and mastering the language.
